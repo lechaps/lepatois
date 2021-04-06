@@ -1,5 +1,5 @@
-baseurl = "https://www.lespeigneurs.com"
-title = "les peigneurs"
+baseurl = "https://lepatois.lechaps.com.com"
+title = "Le patois"
 theme = "creative-portfolio"
 languageCode = "fr-FR"
 # Enable comments by entering your Disqus shortname
@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "Describe your website"
-  copyright = "&copy;2019 lespeigneurs.com"
+  copyright = "&copy;2019 lechaps.com"
   sidebarAbout = [
     "Amoureux des mots de patois et expressions d'autrefois. Ce site est un recueil de mots glanés auprès des mes grands-parents, parents ou autres odyssées temporelles"
   ]
@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "me@lespeigneurs.com"
+  email = "contact@lechaps.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -47,7 +47,7 @@ googleAnalytics = ""
   [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  email         = "me@lespeigneurs.com"
+  email = "contact@lechaps.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
