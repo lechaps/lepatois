@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "Describe your website"
-  copyright = "&copy;2019 lechaps.com"
+  copyright = "&copy;2021 lechaps.com"
   sidebarAbout = [
     "Amoureux des mots de patois et expressions d'autrefois. Ce site est un recueil de mots glanés auprès des mes grands-parents, parents ou autres odyssées temporelles"
   ]
